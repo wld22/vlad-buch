@@ -3,15 +3,15 @@ Hi, I'm Vlad - DevOps Engineer
 🛠 Skills
 Incident Management · Reliability · Amazon Web Services (AWS) · Leadership · Mitigation Strategies · Site Reliability Engineering · Linux System Administration · Troubleshooting · Customer Service · Problem Solving
 
-Tools: Docker, K8S, Terraform, Anisble, AWS, Grafana, Prometheus
+Tools: Docker, K8S, Terraform, Ansible, AWS, Grafana, Prometheus
 
 💵 Work experience
-90POE - sr Support Enginner +SRE  
+90POE - Platform Engineer +SRE  
 
 90POE is an owner of SaaS solution for maritime
 
 ✒️ About Me
-An open minded IT Engineer is looking for an exciting and challenging job with a purpose to provide best service and demonstrate high quality performance.
+An open-minded IT Engineer is looking for an exciting and challenging job with the purpose of providing the best service and demonstrating high-quality performance.
 
 
 📫 Contact Me
